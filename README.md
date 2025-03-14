@@ -1,6 +1,6 @@
 # Movie-App
 
-The Movie App is a web-based application that allows users to search for movies, view search suggestions, and navigate to a details page for more information about a selected movie. The app fetches movie data from both a local JSON file and the OMDB API.
+This web application allows users to search for movies and view their details. The application fetches movie data from the OMDB API and includes a list of 100 pre-fetched movies stored in movies.json.
 
 ## Features
 

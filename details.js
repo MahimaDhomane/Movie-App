@@ -1,4 +1,4 @@
-let API_key="43b1926b";
+let API_key="your_api_key";
 
 function getQueryParam(param){
     let urlparam= new URLSearchParams(window.location.search);

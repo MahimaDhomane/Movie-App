@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Movie App</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="./style.css">
+    </head>
+    <body>
+        <div class="header">
+            <h1>Movie App</h1>
+            <input type="text" id="search" list="movieSuggestions" placeholder="Search Movies" autocomplete="off">
+            <datalist id="movieSuggestions"></datalist>
+        </div>
+        <div class="container" id="container"></div>
+        <div id="pagination">
+          <button id="prev" class="btn">Previous</button>
+          <button id="next" class="btn">Next</button>
+        </div>
+        <script src="fetch.js"></script> 
+        <script src="search.js"></script>
+    </body>
+</html>

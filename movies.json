@@ -1,0 +1,2106 @@
+[
+    {
+        "Title": "Scary Movie 3",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNDE2NTIyMjg2OF5BMl5BanBnXkFtZTYwNDEyMTg3._V1_SX300.jpg",
+        "Director": "David Zucker",
+        "Actors": "Anna Faris, Charlie Sheen, Regina Hall",
+        "Genre": "Comedy",
+        "Plot": "Cindy must investigate mysterious crop circles and video tapes, and help the President in preventing an alien invasion.",
+        "Year": "2003",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "5.6/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "35%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "49/100"
+            }
+        ]
+    },
+    {
+        "Title": "The Lego Batman Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SX300.jpg",
+        "Director": "Chris McKay",
+        "Actors": "Will Arnett, Michael Cera, Rosario Dawson",
+        "Genre": "Animation, Action, Adventure",
+        "Plot": "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick.",
+        "Year": "2017",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.3/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "89%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "75/100"
+            }
+        ]
+    },
+    {
+        "Title": "Scary Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZGRmMGRhOWMtOTk3Ni00OTRjLTkyYTAtYzA1M2IzMGE3NGRkXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Keenen Ivory Wayans",
+        "Actors": "Anna Faris, Jon Abrahams, Marlon Wayans",
+        "Genre": "Comedy",
+        "Plot": "A year after disposing of the body of a man they accidentally killed, a group of dumb teenagers are stalked by a bumbling serial killer.",
+        "Year": "2000",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.3/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "51%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "48/100"
+            }
+        ]
+    },
+    {
+        "Title": "The Simpsons Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzIxN2IzOGItOTcyZi00MTkzLWE4ZjktZTdlOWFiYWE4NzlmXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "David Silverman",
+        "Actors": "Dan Castellaneta, Julie Kavner, Nancy Cartwright",
+        "Genre": "Animation, Adventure, Comedy",
+        "Plot": "After Homer pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.",
+        "Year": "2007",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.3/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "87%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "80/100"
+            }
+        ]
+    },
+    {
+        "Title": "Scary Movie 2",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZjZlOTgzNmUtNjZlYS00NWFjLTg4ZDktMWY4NDIxMjVjZjdhXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Keenen Ivory Wayans",
+        "Actors": "Anna Faris, Marlon Wayans, Antony Acker",
+        "Genre": "Comedy, Horror",
+        "Plot": "Four teens are tricked by a professor into visiting a haunted house for a school project.",
+        "Year": "2001",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "5.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "13%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "29/100"
+            }
+        ]
+    },
+    {
+        "Title": "Scary Movie 4",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjExNDQwM2QtYjFiNy00N2ZlLWE4ZGEtODdmYjY5NDdhNWE3XkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "David Zucker",
+        "Actors": "Anna Faris, Regina Hall, Craig Bierko",
+        "Genre": "Comedy",
+        "Plot": "Cindy finds out a little boy haunts the house she lives in and she goes on a quest to solve his murder.",
+        "Year": "2006",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "5.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "34%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "40/100"
+            }
+        ]
+    },
+    {
+        "Title": "Not Another Teen Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNjllYzVjNjItYjQ2Ni00OGU4LTlkYjItMDYxOTBlM2YzNDA5XkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Joel Gallen",
+        "Actors": "Chyler Leigh, Jaime Pressly, Chris Evans",
+        "Genre": "Comedy",
+        "Plot": "A sendup of all the teen movies that have accumulated in the past two decades.",
+        "Year": "2001",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "5.8/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "32%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "32/100"
+            }
+        ]
+    },
+    {
+        "Title": "The Super Mario Bros. Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOGZlN2EzOTYtMzUzOS00NTM3LTg0MTQtZDVjZGM4YmJlNWNhXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Aaron Horvath, Michael Jelenic, Pierre Leduc",
+        "Actors": "Chris Pratt, Anya Taylor-Joy, Charlie Day",
+        "Genre": "Animation, Adventure, Comedy",
+        "Plot": "A plumber named Mario travels through an underground labyrinth with his brother Luigi, trying to save a captured princess.",
+        "Year": "2023",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.0/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "59%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "46/100"
+            }
+        ]
+    },
+    {
+        "Title": "Bee Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1MDYxOTA4MF5BMl5BanBnXkFtZTcwMDE0MDUzMw@@._V1_SX300.jpg",
+        "Director": "Simon J. Smith, Steve Hickner",
+        "Actors": "Jerry Seinfeld, Ren\u00e9e Zellweger, Matthew Broderick",
+        "Genre": "Animation, Adventure, Comedy",
+        "Plot": "Barry B. Benson, a bee just graduated from college, is disillusioned at his lone career choice: making honey. On a special trip outside the hive, Barry's life is saved by Vanessa, a florist in New York City. As their relationship ...",
+        "Year": "2007",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "49%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "54/100"
+            }
+        ]
+    },
+    {
+        "Title": "The Lego Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_SX300.jpg",
+        "Director": "Phil Lord, Christopher Miller",
+        "Actors": "Chris Pratt, Will Ferrell, Elizabeth Banks",
+        "Genre": "Animation, Action, Adventure",
+        "Plot": "An ordinary LEGO construction worker, thought to be the prophesied as \"special\", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.",
+        "Year": "2014",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "96%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "83/100"
+            }
+        ]
+    },
+    {
+        "Title": "The Angry Birds Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTY3MjU0NDA0OF5BMl5BanBnXkFtZTgwNTc0MTU3OTE@._V1_SX300.jpg",
+        "Director": "Clay Kaytis, Fergal Reilly",
+        "Actors": "Jason Sudeikis, Josh Gad, Danny McBride",
+        "Genre": "Animation, Action, Adventure",
+        "Plot": "When an island populated by happy, flightless birds is visited by mysterious green pigs, it's up to three unlikely outcasts to figure out what the pigs are up to.",
+        "Year": "2016",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.3/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "44%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "43/100"
+            }
+        ]
+    },
+    {
+        "Title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzEzYjhkYTctMWNmZS00MTc5LWI4OWUtZjFkNzNkYTNkMTJlXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Haruo Sotozaki",
+        "Actors": "Natsuki Hanae, Akari Kit\u00f4, Yoshitsugu Matsuoka",
+        "Genre": "Animation, Action, Adventure",
+        "Plot": "After his family was brutally murdered and his sister turned into a demon, Tanjiro Kamado's journey as a demon slayer began. Tanjiro and his comrades embark on a new mission aboard the Mugen Train, on track to despair.",
+        "Year": "2020",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.2/10"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "72/100"
+            }
+        ]
+    },
+    {
+        "Title": "Epic Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTA3NDM5ODU3NzleQTJeQWpwZ15BbWU3MDgyMjgyNDE@._V1_SX300.jpg",
+        "Director": "Jason Friedberg, Aaron Seltzer",
+        "Actors": "Kal Penn, Jennifer Coolidge, Fred Willard",
+        "Genre": "Adventure, Comedy, Fantasy",
+        "Plot": "A spoof on previous years' epic movies (The Da Vinci Code (2006), The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005) + 20 more), TV series, music videos and celebs. 4 orphans are on an epic adventure.",
+        "Year": "2007",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "2.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "2%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "17/100"
+            }
+        ]
+    },
+    {
+        "Title": "The Lego Movie 2: The Second Part",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTkyOTkwNDc1N15BMl5BanBnXkFtZTgwNzkyMzk3NjM@._V1_SX300.jpg",
+        "Director": "Mike Mitchell",
+        "Actors": "Chris Pratt, Elizabeth Banks, Will Arnett",
+        "Genre": "Animation, Adventure, Comedy",
+        "Plot": "It's been five years since everything was awesome and the citizens are facing the huge new threat of Lego Duplo, invaders from outer space, wrecking everything faster than they can rebuild.",
+        "Year": "2019",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.5/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "84%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "65/100"
+            }
+        ]
+    },
+    {
+        "Title": "A Silent Voice: The Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTFiNzRiOWEtYTQwNy00NmRiLWE0ZWYtNTE0YjExZjFmZjkwXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Taichi Ishidate, Naoko Yamada",
+        "Actors": "Miyu Irino, Saori Hayami, Aoi Y\u00fbki",
+        "Genre": "Animation, Drama",
+        "Plot": "A deaf girl, Shoko, is bullied by the popular Shoya. As Shoya continues to bully Shoko, the class turns its back on him. Shoko transfers and Shoya grows up as an outcast. Alone and depressed, the regretful Shoya finds Shoko to mak...",
+        "Year": "2016",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.1/10"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "78/100"
+            }
+        ]
+    },
+    {
+        "Title": "Disaster Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTIzMDQyNDgwNl5BMl5BanBnXkFtZTcwMDA0MTc3MQ@@._V1_SX300.jpg",
+        "Director": "Jason Friedberg, Aaron Seltzer",
+        "Actors": "Carmen Electra, Vanessa Lachey, Nicole Parker",
+        "Genre": "Comedy, Sci-Fi",
+        "Plot": "Over the course of one evening, an unsuspecting group of twenty-somethings find themselves bombarded by a series of natural disasters and catastrophic events.",
+        "Year": "2008",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "1.9/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "1%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "15/100"
+            }
+        ]
+    },
+    {
+        "Title": "Garfield: The Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTIzMTc1OTUxOV5BMl5BanBnXkFtZTYwNTMxODc3._V1_SX300.jpg",
+        "Director": "Peter Hewitt",
+        "Actors": "Breckin Meyer, Jennifer Love Hewitt, Stephen Tobolowsky",
+        "Genre": "Adventure, Comedy, Family",
+        "Plot": "Jon Arbuckle buys a second pet, a dog named Odie. However, Odie is then abducted and it is up to Jon's cat, Garfield, to find and rescue the canine.",
+        "Year": "2004",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "5.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "14%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "27/100"
+            }
+        ]
+    },
+    {
+        "Title": "The SpongeBob SquarePants Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZTRhZDUzMjktOTJhMC00YjNlLTk5YjAtNTdiYTVmMzc1YTQ1XkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Stephen Hillenburg, Mark Osborne",
+        "Actors": "Tom Kenny, Jeffrey Tambor, Rodger Bumpass",
+        "Genre": "Animation, Adventure, Comedy",
+        "Plot": "SpongeBob takes leave from Bikini Bottom in order to track down, with Patrick, King Neptune's stolen crown.",
+        "Year": "2004",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.2/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "68%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "67/100"
+            }
+        ]
+    },
+    {
+        "Title": "Jackass: The Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZDkzNmZmZDUtNjA5Mi00OTM4LTk2MDAtNmRhYTkzM2Y4MWNiXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Jeff Tremaine",
+        "Actors": "Johnny Knoxville, Bam Margera, Chris Pontius",
+        "Genre": "Documentary, Action, Comedy",
+        "Plot": "Johnny Knoxville and his band of maniacs perform a variety of stunts and gross-out gags on the big screen for the first time.",
+        "Year": "2002",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.6/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "49%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "42/100"
+            }
+        ]
+    },
+    {
+        "Title": "Movie 43",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4NzQ3NDM1Nl5BMl5BanBnXkFtZTcwNjEzMjM3OA@@._V1_SX300.jpg",
+        "Director": "Elizabeth Banks, Steven Brill, Steve Carr",
+        "Actors": "Emma Stone, Stephen Merchant, Richard Gere",
+        "Genre": "Comedy",
+        "Plot": "A series of interconnected short films follows a washed-up producer as he pitches insane story lines featuring some of the biggest stars in Hollywood.",
+        "Year": "2013",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "4.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "5%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "18/100"
+            }
+        ]
+    },
+    {
+        "Title": "Date Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYzNjNThhNjUtMmQ3YS00YmQzLWJmMjktMWMyODMyMDc4ZmJkXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Aaron Seltzer, Jason Friedberg",
+        "Actors": "Alyson Hannigan, Adam Campbell, Fred Willard",
+        "Genre": "Comedy, Romance",
+        "Plot": "Spoof of romantic comedies which focuses on a woman, her crush, her parents, and her father.",
+        "Year": "2006",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "2.8/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "7%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "11/100"
+            }
+        ]
+    },
+    {
+        "Title": "The Emoji Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTkzMzM3OTM2Ml5BMl5BanBnXkFtZTgwMDM0NDU3MjI@._V1_SX300.jpg",
+        "Director": "Tony Leondis",
+        "Actors": "T.J. Miller, James Corden, Anna Faris",
+        "Genre": "Animation, Adventure, Comedy",
+        "Plot": "Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji.",
+        "Year": "2017",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "3.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "6%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "12/100"
+            }
+        ]
+    },
+    {
+        "Title": "Pok\u00e9mon: The First Movie - Mewtwo Strikes Back",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNDg0ZDk2N2QtZDQzYi00ZTljLWExODgtZWQ2Y2YzZTA1NjVjXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Kunihiko Yuyama",
+        "Actors": "Veronica Taylor, Rachael Lillis, Eric Stuart",
+        "Genre": "Animation, Action, Adventure",
+        "Plot": "Scientists genetically create a new Pok\u00e9mon, Mewtwo, but the results are horrific and disastrous.",
+        "Year": "1998",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.3/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "16%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "35/100"
+            }
+        ]
+    },
+    {
+        "Title": "Hannah Montana: The Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTkxNjUxODY3NF5BMl5BanBnXkFtZTcwMjQyMzMzMg@@._V1_SX300.jpg",
+        "Director": "Peter Chelsom",
+        "Actors": "Miley Cyrus, Emily Osment, Billy Ray Cyrus",
+        "Genre": "Comedy, Drama, Family",
+        "Plot": "As Hannah Montana's popularity begins to take over her life, Miley Stewart, on the urging from her father takes a trip to her hometown of Crowley Corners, Tennessee to get some perspective on what matters in life the most.",
+        "Year": "2009",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "4.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "44%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "47/100"
+            }
+        ]
+    },
+    {
+        "Title": "The Peanuts Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNTE5NzMxNzkwNl5BMl5BanBnXkFtZTgwOTQ0Nzk5NzE@._V1_SX300.jpg",
+        "Director": "Steve Martino",
+        "Actors": "Noah Schnapp, Bill Melendez, Hadley Belle Miller",
+        "Genre": "Animation, Adventure, Comedy",
+        "Plot": "Snoopy embarks upon his greatest mission as he and his team take to the skies to pursue their archnemesis, while his best pal Charlie Brown begins his own epic quest back home to win the love of his life.",
+        "Year": "2015",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.0/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "87%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "67/100"
+            }
+        ]
+    },
+    {
+        "Title": "Cowboy Bebop: The Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BM2VhZjk2MWMtZjc2OC00YzA4LWI0NzAtZGQ1YjVkOTk5YzVlXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Shin'ichir\u00f4 Watanabe, Tensai Okamura, Hiroyuki Okiura",
+        "Actors": "Beau Billingslea, Melissa Fahn, Nicholas Guest",
+        "Genre": "Animation, Action, Crime",
+        "Plot": "A terrorist explosion releases a deadly virus on the masses, and it's up to the bounty-hunting Bebop crew to catch the cold-blooded culprit.",
+        "Year": "2001",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.8/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "67%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "61/100"
+            }
+        ]
+    },
+    {
+        "Title": "Superhero Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTc0Njc1MTU5Nl5BMl5BanBnXkFtZTcwMjA4NDE2MQ@@._V1_SX300.jpg",
+        "Director": "Craig Mazin",
+        "Actors": "Drake Bell, Leslie Nielsen, Sara Paxton",
+        "Genre": "Action, Comedy, Sci-Fi",
+        "Plot": "Orphaned high school student Rick Riker is bitten by a radioactive dragonfly, develops super powers (except for the ability to fly), and becomes a hero.",
+        "Year": "2008",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "4.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "16%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "33/100"
+            }
+        ]
+    },
+    {
+        "Title": "The SpongeBob Movie: Sponge Out of Water",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNDhlMDM3ZDUtMGNhZi00ZTFmLTg1YjYtZTM3ZTE1MGIwNWFjXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Paul Tibbitt, Mike Mitchell",
+        "Actors": "Tom Kenny, Antonio Banderas, Bill Fagerbakke",
+        "Genre": "Animation, Adventure, Comedy",
+        "Plot": "When a diabolical pirate above the sea steals the secret Krabby Patty formula, SpongeBob and his friends team up in order to get it back.",
+        "Year": "2015",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.0/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "80%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "62/100"
+            }
+        ]
+    },
+    {
+        "Title": "A Goofy Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BY2Q0OTFmMWMtMjEyNC00YWE3LTg1MGEtM2JmZGFlM2E1YWMzXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Kevin Lima",
+        "Actors": "Bill Farmer, Jason Marsden, Jim Cummings",
+        "Genre": "Animation, Adventure, Comedy",
+        "Plot": "When Max makes a preposterous promise to a girl he has a crush on, his chances to fulfilling it seem hopeless when he is dragged onto a cross-country trip with his embarrassing father, Goofy.",
+        "Year": "1995",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.9/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "59%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "53/100"
+            }
+        ]
+    },
+    {
+        "Title": "Scary Movie V",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5OTIxMjQ4NF5BMl5BanBnXkFtZTcwOTAyNDcyOQ@@._V1_SX300.jpg",
+        "Director": "Malcolm D. Lee, David Zucker",
+        "Actors": "Simon Rex, Ashley Tisdale, Charlie Sheen",
+        "Genre": "Comedy, Horror",
+        "Plot": "A couple begin to experience some unusual activity after bringing their lost nieces and nephew home. With the help of home-surveillance cameras, they learn they're being stalked by a nefarious demon.",
+        "Year": "2013",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "3.5/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "4%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "11/100"
+            }
+        ]
+    },
+    {
+        "Title": "The Lizzie McGuire Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYjliMzM1NzUtNTM4Yi00OTA4LWJjZjktMmE3N2U1Mzg2ZmM2XkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Jim Fall",
+        "Actors": "Hilary Duff, Adam Lamberg, Clayton Snyder",
+        "Genre": "Adventure, Comedy, Family",
+        "Plot": "Lizzie McGuire has graduated from middle school and takes a trip to Rome, Italy with her class. And what was supposed to be only a normal trip, becomes a teenager's dream come true.",
+        "Year": "2003",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "5.5/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "41%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "56/100"
+            }
+        ]
+    },
+    {
+        "Title": "The Lego Ninjago Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNWQ3Zjk0ZGEtOTU4ZS00OWY1LTlkM2YtNTllZjBhNTk3NDAxXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Charlie Bean, Paul Fisher, Bob Logan",
+        "Actors": "Jackie Chan, Dave Franco, Fred Armisen",
+        "Genre": "Animation, Adventure, Comedy",
+        "Plot": "Shunned by everyone for being the son of an evil warlord, a teenager seeks to defeat him with the help of his fellow ninjas.",
+        "Year": "2017",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "56%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "55/100"
+            }
+        ]
+    },
+    {
+        "Title": "The Muppet Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTE0ODE3N2ItYjRiOS00ZGU4LThjZTgtOGY5ZTFhMTNlZTNlXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "James Frawley",
+        "Actors": "Jim Henson, Frank Oz, Jerry Nelson",
+        "Genre": "Adventure, Comedy, Family",
+        "Plot": "Kermit and his newfound friends trek across America to find success in Hollywood, but a frog legs merchant is after Kermit.",
+        "Year": "1979",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.6/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "89%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "74/100"
+            }
+        ]
+    },
+    {
+        "Title": "The Transformers: The Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZDg0MjY5NjUtNTEyMy00Y2NjLWI2YzQtYTkyMDU1NDhiODFjXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Nelson Shin",
+        "Actors": "Orson Welles, Robert Stack, Leonard Nimoy",
+        "Genre": "Animation, Action, Adventure",
+        "Plot": "The Autobots must stop a colossal planet-consuming robot who goes after the Autobot Matrix of Leadership. At the same time, they must defend themselves against an all-out attack from the Decepticons.",
+        "Year": "1986",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.2/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "62%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "43/100"
+            }
+        ]
+    },
+    {
+        "Title": "Batman: The Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzEyYWZjNTAtNGRhZi00ZjFiLTlhYmQtNzhhYzJiZmMwNGI1XkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Leslie H. Martinson",
+        "Actors": "Adam West, Burt Ward, Lee Meriwether",
+        "Genre": "Action, Adventure, Comedy",
+        "Plot": "The Dynamic Duo face four super-villains who plan to hold the world for ransom with the help of a secret invention that instantly dehydrates people.",
+        "Year": "1966",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.5/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "80%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "71/100"
+            }
+        ]
+    },
+    {
+        "Title": "Twilight Zone: The Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZWRlZTVkYTktOThkOC00Y2Q4LWI5NTUtMmNmYjhlOTcwMjA2XkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Joe Dante, John Landis, George Miller",
+        "Actors": "Dan Aykroyd, Albert Brooks, Vic Morrow",
+        "Genre": "Horror, Sci-Fi",
+        "Plot": "Four horror and science fiction segments, directed by four famous directors, each of them being a new version of a classic story from Rod Serling's landmark television series.",
+        "Year": "1983",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "60%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "44/100"
+            }
+        ]
+    },
+    {
+        "Title": "Between Two Ferns: The Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMGRhMmFmODItYzkwZS00MzAyLTk3NjEtYjNiNzg0ZTdhOTZmXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Scott Aukerman",
+        "Actors": "Zach Galifianakis, Matthew McConaughey, Rekha Shankar",
+        "Genre": "Comedy",
+        "Plot": "Zach Galifianakis and his oddball crew take a road trip to complete a series of high-profile celebrity interviews.",
+        "Year": "2019",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "73%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "59/100"
+            }
+        ]
+    },
+    {
+        "Title": "The Angry Birds Movie 2",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOGJkNzYyZmYtOGJkNy00NDExLWEwOWEtZDcxYmRmYTg1YTI3XkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Thurop Van Orman, John Rice",
+        "Actors": "Jason Sudeikis, Josh Gad, Leslie Jones",
+        "Genre": "Animation, Action, Adventure",
+        "Plot": "The flightless birds and scheming green pigs take their feud to the next level.",
+        "Year": "2019",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "72%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "60/100"
+            }
+        ]
+    },
+    {
+        "Title": "Shaun the Sheep Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTc1ODY5MTQ1Nl5BMl5BanBnXkFtZTgwMDM5ODI1NjE@._V1_SX300.jpg",
+        "Director": "Mark Burton, Richard Starzak",
+        "Actors": "Justin Fletcher, John Sparkes, Omid Djalili",
+        "Genre": "Animation, Adventure, Comedy",
+        "Plot": "When Shaun decides to take the day off and have some fun, he gets a little more action than he bargained for. A mix up with the Farmer, a caravan and a very steep hill lead them all to the Big City and it's up to Shaun and the flo...",
+        "Year": "2015",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.3/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "99%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "81/100"
+            }
+        ]
+    },
+    {
+        "Title": "Captain Underpants: The First Epic Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BN2FlOTgyOTctMTE1Ny00MzFhLWE5NjctNTMxNzM5N2I2Yzk1XkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "David Soren",
+        "Actors": "Kevin Hart, Thomas Middleditch, Ed Helms",
+        "Genre": "Animation, Action, Adventure",
+        "Plot": "Two overly-imaginative pranksters hypnotize their grumpy principal into thinking he's a ridiculously enthusiastic, incredibly dimwitted, underwear-themed superhero.",
+        "Year": "2017",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.2/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "87%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "69/100"
+            }
+        ]
+    },
+    {
+        "Title": "The SpongeBob Movie: Sponge on the Run",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZTBiZDQ2MWEtYzE1MC00YmMyLTg1NjUtNzE2YTZlMjI3MGUxXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Tim Hill",
+        "Actors": "Tim Hill, Clancy Brown, Bill Fagerbakke",
+        "Genre": "Animation, Adventure, Comedy",
+        "Plot": "After SpongeBob's beloved pet snail Gary is snail-napped, he and Patrick embark on an epic adventure to the Lost City of Atlantic City to bring Gary home.",
+        "Year": "2020",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "5.9/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "66%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "65/100"
+            }
+        ]
+    },
+    {
+        "Title": "Wizards of Waverly Place: The Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNGM2OTMxOTAtZWU3Ni00OTY1LWFjYzgtMjRlZDIyYWYzMDY5XkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Lev L. Spiro",
+        "Actors": "Selena Gomez, David Henrie, Jake T. Austin",
+        "Genre": "Action, Adventure, Comedy",
+        "Plot": "A young wizard conjures a spell that puts her family in jeopardy.",
+        "Year": "2009",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.2/10"
+            }
+        ]
+    },
+    {
+        "Title": "The Garfield Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYjY2NDZhN2EtZmYwNS00NDU2LThiODAtNmY4OWY2ODNmZWRmXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Mark Dindal",
+        "Actors": "Chris Pratt, Samuel L. Jackson, Hannah Waddingham",
+        "Genre": "Animation, Adventure, Comedy",
+        "Plot": "After Garfield's unexpected reunion with his long-lost father, ragged alley cat Vic, he and his canine friend Odie are forced from their perfectly pampered lives to join Vic on a risky heist.",
+        "Year": "2024",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "5.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "37%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "31/100"
+            }
+        ]
+    },
+    {
+        "Title": "The Bob's Burgers Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMWJlNDZkYjctM2QzYi00MTdlLTk0NWEtM2NlNmIxNjE3OWJmXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Loren Bouchard, Bernard Derriman",
+        "Actors": "H. Jon Benjamin, Kristen Schaal, Dan Mintz",
+        "Genre": "Animation, Adventure, Comedy",
+        "Plot": "When a sinkhole in front of Bob's Burgers threatens the Belchers' plans for a successful summer, Bob and Linda try to keep their business going, while the kids attempt to save the restaurant by solving a mystery.",
+        "Year": "2022",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.0/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "87%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "75/100"
+            }
+        ]
+    },
+    {
+        "Title": "Man with a Movie Camera",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZDkzOTYyM2MtYzBmOC00NzIxLThkOGUtNzk5NjI0OWRjZjgzXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Dziga Vertov",
+        "Actors": "Mikhail Kaufman, Elizaveta Svilova",
+        "Genre": "Documentary",
+        "Plot": "A man travels around a city with a camera slung over his shoulder, documenting urban life with dazzling invention.",
+        "Year": "1929",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.3/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "98%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "96/100"
+            }
+        ]
+    },
+    {
+        "Title": "Deadwood: The Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMWYyYTU0OGYtNDU3MS00ZmQyLTk5YmQtMjQ0YWI4YzAxNWFmXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Daniel Minahan",
+        "Actors": "Timothy Olyphant, Ian McShane, Molly Parker",
+        "Genre": "Drama, Western",
+        "Plot": "As the residents of Deadwood gather to commemorate Dakota's statehood in 1889, saloon owner Al Swearengen and Marshal Seth Bullock clash with Senator George Hearst.",
+        "Year": "2019",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.3/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "98%"
+            }
+        ]
+    },
+    {
+        "Title": "The Brady Bunch Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTRjZTkxNWUtZDM1Mi00ZjE0LTk1N2ItNDc5MWY0ZTUwYmMyXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Betty Thomas",
+        "Actors": "Shelley Long, Gary Cole, Christine Taylor",
+        "Genre": "Comedy",
+        "Plot": "The original 1970s TV family is now placed in the 1990s, where they're even more square and out of place than ever.",
+        "Year": "1995",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.2/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "64%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "54/100"
+            }
+        ]
+    },
+    {
+        "Title": "DuckTales the Movie: Treasure of the Lost Lamp",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZTFmNTU1ZGQtOGI4Zi00NjQ4LWJkYWYtYjU2NjY5M2NjZmFjXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Bob Hathcock",
+        "Actors": "Alan Young, Christopher Lloyd, Terence McGovern",
+        "Genre": "Animation, Adventure, Comedy",
+        "Plot": "Scrooge McDuck takes Huey, Dewey, and Louie to Egypt to find a pyramid and magic lamp.",
+        "Year": "1990",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.8/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "100%"
+            }
+        ]
+    },
+    {
+        "Title": "Pok\u00e9mon the Movie 2000",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTE0NzY5MGUtZDdjMi00OTMyLThiYmEtOTc5NWY0NTE3NDA0XkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Kunihiko Yuyama",
+        "Actors": "Veronica Taylor, Rica Matsumoto, Ikue \u00d4tani",
+        "Genre": "Animation, Action, Adventure",
+        "Plot": "Ash Ketchum must gather the three spheres of fire, ice and lightning in order to restore balance to the Orange Islands.",
+        "Year": "1999",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.1/10"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "28/100"
+            }
+        ]
+    },
+    {
+        "Title": "Indie Game: The Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjA5NTUzMjQ1MV5BMl5BanBnXkFtZTcwMzc1MzQ4Nw@@._V1_SX300.jpg",
+        "Director": "Lisanne Pajot, James Swirsky",
+        "Actors": "Jonathan Blow, Brandon Boyer, Renaud B\u00e9dard",
+        "Genre": "Documentary, Drama",
+        "Plot": "A documentary that follows the journeys of indie game developers as they create games and release those works, and themselves, to the world.",
+        "Year": "2012",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.6/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "94%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "73/100"
+            }
+        ]
+    },
+    {
+        "Title": "The Last: Naruto the Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjk1NzA4Njg4Ml5BMl5BanBnXkFtZTgwMDgxODQ5MzE@._V1_SX300.jpg",
+        "Director": "Tsuneo Kobayashi",
+        "Actors": "Junko Takeuchi, Nana Mizuki, Jun Fukuyama",
+        "Genre": "Animation, Action, Adventure",
+        "Plot": "Hinata Hyuga's younger sister has been kidnapped, so Naruto must do what he can to save her.",
+        "Year": "2014",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.6/10"
+            }
+        ]
+    },
+    {
+        "Title": "Still: A Michael J. Fox Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYjAyMjVjZGMtMzM4NS00MWM4LTkzMzUtNWZlMjJkMmJiODExXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Davis Guggenheim",
+        "Actors": "Michael J. Fox, Davis Guggenheim, Tracy Pollan",
+        "Genre": "Documentary, Biography",
+        "Plot": "Follows the life of beloved actor and advocate Michael J. Fox, exploring his personal and professional triumphs and travails, and what happens when an incurable optimist confronts an incurable disease.",
+        "Year": "2023",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "99%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "78/100"
+            }
+        ]
+    },
+    {
+        "Title": "American Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzBjNjQwMWQtYWE0OC00MmM3LTljNDktMmI4ZTlhMWFjZTYwXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Chris Smith",
+        "Actors": "Mark Borchardt, Mike Schank, Tom Schimmels",
+        "Genre": "Documentary, Comedy",
+        "Plot": "Documentary about an aspiring filmmaker's attempts to finance his dream project by finally completing the low-budget horror film he abandoned years before.",
+        "Year": "1999",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.8/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "94%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "84/100"
+            }
+        ]
+    },
+    {
+        "Title": "The Tigger Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTE5NDIyODU4M15BMl5BanBnXkFtZTYwODA5MzY2._V1_SX300.jpg",
+        "Director": "Jun Falkenstein",
+        "Actors": "Jim Cummings, Nikita Hopkins, Ken Sansom",
+        "Genre": "Animation, Adventure, Comedy",
+        "Plot": "Tigger goes looking through the hundred-acre-wood to find his family.",
+        "Year": "2000",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.3/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "63%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "53/100"
+            }
+        ]
+    },
+    {
+        "Title": "The Kentucky Fried Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTMzOTQ3YmEtYmEyNy00NWJhLTg3OTktNWE0YTZmYzM2YmNiXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "John Landis",
+        "Actors": "Evan C. Kim, Bong Soo Han, Bill Bixby",
+        "Genre": "Comedy",
+        "Plot": "The daily programming of a fictional local TV channel presented as a series of highly irreverent skits.",
+        "Year": "1977",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "83%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "61/100"
+            }
+        ]
+    },
+    {
+        "Title": "The Onion Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYTcxNjlmYmItZWYyMi00NDY1LWI2NGQtNGQ4Njc0MWM0YjY4XkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Tom Kuntz, Mike Maguire",
+        "Actors": "Len Cariou, Sarah McElligott, Amir Talai",
+        "Genre": "Comedy",
+        "Plot": "Satirical interpretations of world events and curious human behavior.",
+        "Year": "2008",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.2/10"
+            }
+        ]
+    },
+    {
+        "Title": "The Rugrats Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjc4ZWRmZjctNTQ2OC00Y2YyLTlhYzYtOWY2MDUxMGU2MzY0XkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Igor Kovalyov, Norton Virgien",
+        "Actors": "Elizabeth Daily, Christine Cavanaugh, Kath Soucie",
+        "Genre": "Animation, Adventure, Comedy",
+        "Plot": "The babies gets lost in the forest after Tommy Pickles gets a new baby brother.",
+        "Year": "1998",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "5.9/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "59%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "62/100"
+            }
+        ]
+    },
+    {
+        "Title": "Tales from the Darkside: The Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNWZhODFjZjUtNjIyNi00NWE2LTllM2UtODViMTgxOGJlNjVkXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "John Harrison",
+        "Actors": "Debbie Harry, Matthew Lawrence, Christian Slater",
+        "Genre": "Comedy, Fantasy, Horror",
+        "Plot": "To stall a witch plotting to eat him, a boy reads her horror tales dealing with a collegian's resurrection of a mummy, a murderous cat, and an artist's pact with a gargoyle.",
+        "Year": "1990",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.2/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "46%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "54/100"
+            }
+        ]
+    },
+    {
+        "Title": "Silent Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNDMxMzcwOTYtOTA2MS00YTI2LTljMmUtMzU0MGM4MmNmZWUzXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Mel Brooks",
+        "Actors": "Mel Brooks, Marty Feldman, Dom DeLuise",
+        "Genre": "Comedy",
+        "Plot": "A film director and his strange friends struggle to produce the first major silent feature film in forty years.",
+        "Year": "1976",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "79%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "75/100"
+            }
+        ]
+    },
+    {
+        "Title": "Mystery Science Theater 3000: The Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYmIzYmZlNWMtYTVjNC00YWU5LWI1N2UtZjY2MDVjYTE0YjU0XkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Jim Mallon",
+        "Actors": "Trace Beaulieu, Michael J. Nelson, Jim Mallon",
+        "Genre": "Comedy, Drama, Fantasy",
+        "Plot": "Mike Nelson and his robot companions watch and give their comments about This Island Earth (1955).",
+        "Year": "1996",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.2/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "80%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "65/100"
+            }
+        ]
+    },
+    {
+        "Title": "My Scientology Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ5NTI2NDc3NF5BMl5BanBnXkFtZTgwNDA3ODk2MTI@._V1_SX300.jpg",
+        "Director": "John Dower",
+        "Actors": "Louis Theroux, Tom Cruise, Marty Rathbun",
+        "Genre": "Documentary",
+        "Plot": "Louis Theroux documents his investigation into what goes on behind the scenes of the infamous Church of Scientology.",
+        "Year": "2015",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.6/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "89%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "62/100"
+            }
+        ]
+    },
+    {
+        "Title": "Teen Beach Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzBmNDcxN2UtZmY1NS00MjU5LTgxZTktNjk0ZDliZDNlYzk5XkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Jeffrey Hornaday",
+        "Actors": "Ross Lynch, Maia Mitchell, Gracie Gillam",
+        "Genre": "Comedy, Family, Fantasy",
+        "Plot": "Two surfing lovers, whose doomed relationship is nearing to a close, find themselves swept into a dimension-traversing wave that sends them into a beach movie musical in the 60's.",
+        "Year": "2013",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.0/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "88%"
+            }
+        ]
+    },
+    {
+        "Title": "Aqua Teen Hunger Force Colon Movie Film for Theaters",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTc0OTQwNzYyNF5BMl5BanBnXkFtZTcwMDc5NTM0MQ@@._V1_SX300.jpg",
+        "Director": "Matt Maiellaro, Dave Willis",
+        "Actors": "Dana Snyder, Dave Willis, Carey Means",
+        "Genre": "Animation, Action, Adventure",
+        "Plot": "An action epic that explores the origins of Master Shake, Frylock, and Meatwad, better known as the Aqua Teen Hunger Force, who somehow become pitted in a battle over an immortal piece of exercise equipment.",
+        "Year": "2007",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "49%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "54/100"
+            }
+        ]
+    },
+    {
+        "Title": "Phineas and Ferb the Movie: Across the 2nd Dimension",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNGIzN2JiODEtMzNjOC00NmU5LWFkYmEtYWRhODI0MGVlYjVhXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Robert Hughes, Dan Povenmire, Jay Lender",
+        "Actors": "Vincent Martella, Ashley Tisdale, Thomas Brodie-Sangster",
+        "Genre": "Animation, Action, Adventure",
+        "Plot": "Phineas and Ferb discover that Perry is a secret agent, and they all get stuck in an alternate dimension where Doofenschmirtz is the ruler of the tri-state area.",
+        "Year": "2011",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "100%"
+            }
+        ]
+    },
+    {
+        "Title": "A Shaun the Sheep Movie: Farmageddon",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNjg2MDJmYmYtYzc2MC00MzEyLTg3MmQtMDU4Mjc4MzdlM2VjXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Will Becher, Richard Phelan",
+        "Actors": "Justin Fletcher, John Sparkes, Amalia Vitale",
+        "Genre": "Animation, Adventure, Comedy",
+        "Plot": "When an alien with amazing powers crash-lands near Mossy Bottom Farm, Shaun the Sheep goes on a mission to shepherd the intergalactic visitor home before a sinister organization can capture her.",
+        "Year": "2019",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.8/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "96%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "79/100"
+            }
+        ]
+    },
+    {
+        "Title": "The Greatest Movie Ever Sold",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTM5NzQxOTQwNV5BMl5BanBnXkFtZTcwNDAwODM2NA@@._V1_SX300.jpg",
+        "Director": "Morgan Spurlock",
+        "Actors": "J.J. Abrams, Peter Berg, Paul Brennan",
+        "Genre": "Documentary, Comedy",
+        "Plot": "A documentary about branding, advertising and product placement that is financed and made possible by brands, advertising and product placement.",
+        "Year": "2011",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.6/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "72%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "66/100"
+            }
+        ]
+    },
+    {
+        "Title": "Trailer Park Boys: The Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTY5Mzg4MDM1M15BMl5BanBnXkFtZTcwNTk4MzkzMQ@@._V1_SX300.jpg",
+        "Director": "Mike Clattenburg",
+        "Actors": "Robb Wells, John Paul Tremblay, Mike Smith",
+        "Genre": "Comedy, Crime",
+        "Plot": "Ricky, Julian, and Bubbles come up with a scheme to steal large amounts of untraceable coins.",
+        "Year": "2006",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "57%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "38/100"
+            }
+        ]
+    },
+    {
+        "Title": "Teen Wolf: The Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZjZhOTliNTMtZGVlOS00NDgwLWE5MzctM2VlNTY1OWE3YzRiXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Russell Mulcahy",
+        "Actors": "Tyler Posey, Crystal Reed, Holland Roden",
+        "Genre": "Action, Drama, Fantasy",
+        "Plot": "A terrifying evil has emerged. The wolves howl once again, but only a Werewolf like Scott McCall, can gather both new allies and reunite trusted friends to fight back against what could be the most powerful and deadliest enemy.",
+        "Year": "2023",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "5.5/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "32%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "51/100"
+            }
+        ]
+    },
+    {
+        "Title": "Cheech and Chong's Next Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNjc2YmQ0ZjktNDViYi00MmEyLThhOTItZTJiNjY0NDZiZDE1XkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Tommy Chong",
+        "Actors": "Cheech Marin, Tommy Chong, Evelyn Guerrero",
+        "Genre": "Comedy, Crime",
+        "Plot": "Cheech and Chong live in a decrepit old house and drive their neighbour crazy with their loud music, weed smoking and general anarchy and slacker view on life. Then Chong meets Cheech's Texan cousin Red and things kick up a notch.",
+        "Year": "1980",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.0/10"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "66/100"
+            }
+        ]
+    },
+    {
+        "Title": "Pok\u00e9mon 3 the Movie: Spell of the Unown",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTk0NzM3MDY1OV5BMl5BanBnXkFtZTYwNTkwODc5._V1_SX300.jpg",
+        "Director": "Kunihiko Yuyama",
+        "Actors": "Veronica Taylor, Eric Stuart, Rica Matsumoto",
+        "Genre": "Animation, Action, Adventure",
+        "Plot": "In the town of Greenfield, a young, lonely girl's dreams and wishes are brought into reality by a collective of reality-warping Pok\u00e9mon.",
+        "Year": "2000",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "5.8/10"
+            }
+        ]
+    },
+    {
+        "Title": "Ultimate Avengers: The Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyMjk0NTMwMl5BMl5BanBnXkFtZTgwNzY0NjAwNzE@._V1_SX300.jpg",
+        "Director": "Curt Geda, Steven E. Gordon, Bob Richardson",
+        "Actors": "Justin Gross, Grey Griffin, Michael Massee, Marc Worden",
+        "Genre": "Animation, Action, Adventure, Sci-Fi",
+        "Plot": "To confront an alien menace, General Fury assembles a team of superheroes lead by a recently resuscitated Captain America.",
+        "Year": "2006",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.7/10"
+            }
+        ]
+    },
+    {
+        "Title": "Boruto: Naruto the Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BY2Y0NGE5YjgtNzFlZS00NzJjLThlMDQtZDZhNjQxNTc2NmUwXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Hiroyuki Yamashita, Toshiyuki Tsuru",
+        "Actors": "Y\u00fbko Sanpei, Kokoro Kikuchi, Ry\u00fbichi Kijima",
+        "Genre": "Animation, Action, Adventure",
+        "Plot": "It's been some years since the end of the Shinobi War. Naruto Uzumaki is the 7th Hokage of Konohagakure, in this new era. His son, Boruto Uzumaki, will soon enter the Ch\u00fbnin exams, alongside Sarada Uchiha and the mysterious Mitsuki.",
+        "Year": "2015",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.7/10"
+            }
+        ]
+    },
+    {
+        "Title": "Tom and Jerry: The Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzFiNzc3ODMtZWU5MC00YWE2LWIzNzItMTUzMzdhZTJmMGU2XkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Phil Roman",
+        "Actors": "Richard Kind, Dana Hill, Anndi McAfee",
+        "Genre": "Animation, Adventure, Comedy",
+        "Plot": "Tom and Jerry convince Robyn, an orphan girl who runs away from home to escape her evil aunt, to return and accompany her. Later, they chance upon a great secret that Robyn's aunt has kept from her.",
+        "Year": "1992",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "5.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "14%"
+            }
+        ]
+    },
+    {
+        "Title": "Fullmetal Alchemist the Movie: Conqueror of Shamballa",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZjM1NWIwYWUtNGVjZC00MGVmLTgzOTctZDlhOTM3ZmRlMjZjXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Seiji Mizushima",
+        "Actors": "Vic Mignogna, Aaron Dismuke, Jason Liebrecht",
+        "Genre": "Animation, Action, Adventure",
+        "Plot": "Edward Elric, an alchemist from an alternate world, races to prevent the Thule Society from harnessing alchemy to wage war on his home.",
+        "Year": "2005",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.3/10"
+            }
+        ]
+    },
+    {
+        "Title": "Attack on Titan the Movie: The Last Attack",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzVjOWEwYjEtNDJhOC00YjUyLThjMWItMDQwZGY1ODM4YzI3XkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Y\u00fbichir\u00f4 Hayashi",
+        "Actors": "Natsuki Hanae, Yoshimasa Hosoya, Marina Inoue",
+        "Genre": "Animation, Action, Drama",
+        "Plot": "The fate of the world hangs in the balance as Eren unleashes the ultimate power of the Titans. With a burning determination to eliminate all who threaten Eldia, he leads an unstoppable army of Colossal Titans towards Marley.",
+        "Year": "2024",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "9.3/10"
+            }
+        ]
+    },
+    {
+        "Title": "Psych: The Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZDIxYmJiNDUtNjA0My00N2ExLWFhMDAtMzYxOTcyYWM5MDRlXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Steve Franks",
+        "Actors": "James Roday Rodriguez, Dul\u00e9 Hill, Timothy Omundson",
+        "Genre": "Comedy, Crime, Mystery",
+        "Plot": "The old gang comes together during the holidays after a mystery assailant targets one of their own.",
+        "Year": "2017",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.3/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "100%"
+            }
+        ]
+    },
+    {
+        "Title": "Violet Evergarden: The Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOWUyNDFjOWUtNGM5MS00YTUzLWFhYzYtZDg5NDNjMWJiY2MyXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Taichi Ishidate",
+        "Actors": "Yui Ishikawa, Daisuke Namikawa, Takehito Koyasu",
+        "Genre": "Animation, Drama, Fantasy",
+        "Plot": "After the aftermath of a war, a young girl who was used as a 'tool' for war learned to live. With the scars of burns, she goes back to her past to feel the true feelings of the Major's, \"I love you.\"",
+        "Year": "2020",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.3/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "100%"
+            }
+        ]
+    },
+    {
+        "Title": "Extreme Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMDNkZjYxZjYtNjZiNC00MzQyLTk3YzgtZDc1MTMzMTdjNDliXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Adam Jay Epstein, Andrew Jacobson",
+        "Actors": "Frankie Muniz, Michael Cera, Ashley Schneider",
+        "Genre": "Comedy",
+        "Plot": "A sketch-comedy movie about the joys and embarrassments of teen sex. But mostly the embarrassments.",
+        "Year": "2008",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "3.7/10"
+            }
+        ]
+    },
+    {
+        "Title": "The Powerpuff Girls Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNjQ2OWU4ZDgtNjY4YS00OTZkLWIyN2UtZGM0MmI0MDljYjI2XkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Craig McCracken",
+        "Actors": "Cathy Cavadini, Tara Strong, Elizabeth Daily",
+        "Genre": "Animation, Action, Adventure",
+        "Plot": "After destroying the city of Townsville in a game of tag, a trio of super-powered little girls must redeem themselves by stopping a vengeful monkey's plot for world domination.",
+        "Year": "2002",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.5/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "63%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "65/100"
+            }
+        ]
+    },
+    {
+        "Title": "Absolutely Fabulous: The Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjI4NDI5MDg2OV5BMl5BanBnXkFtZTgwNzA5ODQ3ODE@._V1_SX300.jpg",
+        "Director": "Mandie Fletcher",
+        "Actors": "Jennifer Saunders, Joanna Lumley, Jane Horrocks",
+        "Genre": "Comedy, Crime",
+        "Plot": "After attracting both media and police attention for accidentally knocking Kate Moss into the River Thames, Edina and Patsy hide out in the south of France.",
+        "Year": "2016",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "5.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "57%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "59/100"
+            }
+        ]
+    },
+    {
+        "Title": "Mr. Monk's Last Case: A Monk Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOGFjMmMxNTgtYmQyNS00ODRjLWE4Y2YtMDAyOWMwNDMxMmMxXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Randy Zisk",
+        "Actors": "Tony Shalhoub, Traylor Howard, Jason Gray-Stanford",
+        "Genre": "Comedy, Crime, Mystery",
+        "Plot": "Monk, a brilliant detective with obsessive-compulsive disorder, returns to solve one last case involving his stepdaughter Molly, a journalist preparing for her wedding.",
+        "Year": "2023",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "96%"
+            }
+        ]
+    },
+    {
+        "Title": "Left Behind: The Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOGMwNmY0M2UtZjEzNS00ZmU3LWFiMGEtOGMxZjBhMGMxYmUzXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Vic Sarin",
+        "Actors": "Kirk Cameron, Brad Johnson, Janaya Stephens",
+        "Genre": "Action, Drama, Fantasy",
+        "Plot": "The Biblical prophecy of Armegeddon begins when the Rapture instantly takes all believers in Christ from the Earth. A reporter left behind learns that the Anti-Christ will soon take power.",
+        "Year": "2000",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "4.3/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "16%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "22/100"
+            }
+        ]
+    },
+    {
+        "Title": "Threat Level Midnight: The Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZjMzNzE4ZGItMDI5Zi00ZjE3LThkODctYTlhZWY1ZTdmMGNjXkEyXkFqcGdeQXVyOTExNzM4NDM@._V1_SX300.jpg",
+        "Director": "Tucker Gates",
+        "Actors": "Steve Carell, John Krasinski, Rainn Wilson",
+        "Genre": "Action, Comedy",
+        "Plot": "After secret agent Michael Scarn (Steve Carell) is forced into retirement after the death of his wife Catherine Zeta-Scarn, the President of the United States of America (Craig Robinson) requests that he prevents Goldenface (John ...",
+        "Year": "2019",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "9.6/10"
+            }
+        ]
+    },
+    {
+        "Title": "The Batman Superman Movie: World's Finest",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZmYwMWM1MTEtODA0ZS00OTY3LTgzMTQtOGY5Y2Q2ZmNjNTg1XkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Toshihiko Masuda",
+        "Actors": "Tim Daly, Dana Delany, Kevin Conroy",
+        "Genre": "Animation, Action, Adventure",
+        "Plot": "Joker goes to Metropolis with an offer and plan to kill Superman for Lex Luthor while Batman pursues the clown to Superman's turf.",
+        "Year": "1997",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.7/10"
+            }
+        ]
+    },
+    {
+        "Title": "An Extremely Goofy Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNTJkNmQ1ODItNTJhOS00NWRhLTg0NjAtYjZlNWYxZWJmNTY4XkEyXkFqcGdeQXVyOTg4MDk3MTQ@._V1_SX300.jpg",
+        "Director": "Douglas McCarthy",
+        "Actors": "Bill Farmer, Jason Marsden, Jeff Bennett, Jim Cummings",
+        "Genre": "Animation, Comedy, Family, Sport",
+        "Plot": "Max goes to college, but to his embarassment his father loses his job and goes to his son's campus.",
+        "Year": "2000",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "63%"
+            }
+        ]
+    },
+    {
+        "Title": "It's Pat: The Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOWI5YTU1NmQtODQ0Mi00NzY4LWE0MjUtMDdkYzQxYmY1YTg3XkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Adam Bernstein",
+        "Actors": "Julia Sweeney, Dave Foley, Charles Rocket",
+        "Genre": "Comedy",
+        "Plot": "The comedic misadventures of a person of indeterminate gender.",
+        "Year": "1994",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "2.8/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "0%"
+            }
+        ]
+    },
+    {
+        "Title": "Tim and Eric's Billion Dollar Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0NTQ5NDYwMV5BMl5BanBnXkFtZTcwNjUzNzUxNw@@._V1_SX300.jpg",
+        "Director": "Tim Heidecker, Eric Wareheim",
+        "Actors": "Tim Heidecker, Eric Wareheim, Robert Loggia",
+        "Genre": "Comedy",
+        "Plot": "Two guys get a billion dollars to make a movie, only to watch their dream run off course. In order to make the money back, they then attempt to revitalize a failing shopping mall.",
+        "Year": "2012",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "5.3/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "38%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "40/100"
+            }
+        ]
+    },
+    {
+        "Title": "Street Fighter II: The Animated Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTVmY2I1YjctMDMwMS00OWFmLWFiNDktMTk2ZDljZDIzYTg4XkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Gisabur\u00f4 Sugii",
+        "Actors": "K\u00f4jiro Shimizu, Kenji Haga, Miki Fujitani",
+        "Genre": "Animation, Action, Adventure",
+        "Plot": "A crime boss searching for the world's best fighters pursues a talented Japanese drifter and his American ex-classmate, while an Interpol agent and a US Army captain seek to bring him down.",
+        "Year": "1994",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.2/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "80%"
+            }
+        ]
+    },
+    {
+        "Title": "Doctor Who: The Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNjUyOTM5YmQtZTE2YS00NzI0LTljYWUtMzA1ZjRmODkzZTM0XkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Geoffrey Sax",
+        "Actors": "Paul McGann, Eric Roberts, Daphne Ashbrook",
+        "Genre": "Adventure, Drama, Sci-Fi",
+        "Plot": "The newly-regenerated Doctor takes on the Master on the turn of the millennium, 31 December 1999.",
+        "Year": "1996",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.3/10"
+            }
+        ]
+    },
+    {
+        "Title": "Turbo: A Power Rangers Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZGFlYTNjMDYtZjk5OC00MDZkLTk3YTYtZWMwNjNkMTc0YWIzXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Shuki Levy, David Winning",
+        "Actors": "Jason David Frank, Catherine Sutherland, Hilary Shepard",
+        "Genre": "Action, Adventure, Family",
+        "Plot": "A space alien is threatening to bring destruction on Earth, and the Power Rangers are enhanced with turbo powers in order to prevent her plan.",
+        "Year": "1997",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "3.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "16%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "35/100"
+            }
+        ]
+    },
+    {
+        "Title": "Steven Universe: The Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZTAxMTY1ZDAtMmY0Yy00Mzk1LTk3MzItZTA3YjM1NTMxMmRiXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Rebecca Sugar, Joseph D. Johnston, Kat Morris",
+        "Actors": "Zach Callison, Michaela Dietz, Estelle",
+        "Genre": "Animation, Action, Adventure",
+        "Plot": "Steven thinks his time defending the Earth is over, but when a new threat comes to Beach City, Steven faces his biggest challenge yet.",
+        "Year": "2019",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "100%"
+            }
+        ]
+    },
+    {
+        "Title": "Uno: The Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BN2YyNmMzZmQtYjg1MS00OTEwLTkwZDEtOWNlMTEzOWIzMWM3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzQwNDg4MQ@@._V1_SX300.jpg",
+        "Director": "N/A",
+        "Actors": "Geoff Ramsey, Gavin Free, Ryan Haywood, Jeremy Dooley",
+        "Genre": "Comedy",
+        "Plot": "What had started as a simple game of UNO! turned into a psychological horror. Coworkers are driven to the edge of madness as they commit to a game of Uno.",
+        "Year": "2016",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "9.5/10"
+            }
+        ]
+    },
+    {
+        "Title": "Yu-Gi-Oh!: The Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNTQ4NzM0NTAyMF5BMl5BanBnXkFtZTYwOTc2MTg3._V1_SX300.jpg",
+        "Director": "Hatsuki Tsuji",
+        "Actors": "Dan Green, Eric Stuart, Amy Birnbaum",
+        "Genre": "Animation, Action, Adventure",
+        "Plot": "Underneath the sands of Egypt, Anubis, an ancient evil spirit, has awakened. It's up to Yugi, who defeated Anubis centuries ago, to use his skill and determination to rid the world of evil once again.",
+        "Year": "2004",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "5.0/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "6%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "15/100"
+            }
+        ]
+    },
+    {
+        "Title": "Piglet's Big Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5MzE2ODAyOF5BMl5BanBnXkFtZTYwNTcwNDg3._V1_SX300.jpg",
+        "Director": "Francis Glebas",
+        "Actors": "John Fiedler, Jim Cummings, Ken Sansom",
+        "Genre": "Animation, Adventure, Comedy",
+        "Plot": "When Piglet comes up missing his Hundred Acre Wood friends use Piglet's own Book of Memories to find him, discovering along the way just how big a role he's played in their lives.",
+        "Year": "2003",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "70%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "62/100"
+            }
+        ]
+    },
+    {
+        "Title": "Constantine: City of Demons - The Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYTBlYzRkZTQtZDZjYi00MTUzLTk4NDMtYjg0YTVhOWRjMmEwXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Doug Murphy",
+        "Actors": "Matt Ryan, Laura Bailey, Robin Atkin Downes",
+        "Genre": "Animation, Action, Fantasy",
+        "Plot": "A decade after a tragic mistake, Chas Chandler and occult investigator John Constantine set out to cure Chas's daughter, Trish, from a demonically induced coma.",
+        "Year": "2018",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.3/10"
+            }
+        ]
+    },
+    {
+        "Title": "Fred: The Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMWVhMjk4NTctYjYyYS00NjYxLWE5NTgtNTIzMTgzZDQyNzIyXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Clay Weiner",
+        "Actors": "Lucas Cruikshank, Pixie Lott, Jake Weary",
+        "Genre": "Adventure, Comedy, Family",
+        "Plot": "Lovestruck, awkward teen Fred Figglehorn makes desperate attempts to make Judy fall in love with him - while also dodging the mischievous Kevin.",
+        "Year": "2010",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "2.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "0%"
+            }
+        ]
+    },
+    {
+        "Title": "Another Gay Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzMTIzNDI3MV5BMl5BanBnXkFtZTgwNDQwMjMxMTE@._V1_SX300.jpg",
+        "Director": "Todd Stephens",
+        "Actors": "Michael Carbonaro, Jonathan Chase, Jonah Blechman",
+        "Genre": "Comedy, Romance",
+        "Plot": "Four gay high school friends make a pact to lose their virginity before they go to college.",
+        "Year": "2006",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "5.0/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "50%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "37/100"
+            }
+        ]
+    },
+    {
+        "Title": "Sword Art Online the Movie: Ordinal Scale",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNDYxNmUyNDctMmQ5Zi00OTM0LWI1ZjktN2Y5MzliZjU5MmNhXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Tomohiko It\u00f4",
+        "Actors": "Yoshitsugu Matsuoka, Haruka Tomatsu, Kanae It\u00f4",
+        "Genre": "Animation, Action, Adventure",
+        "Plot": "Kirito uncovers a conspiracy within Ordinal Scale, a popular AR game developed for a new system called The Augma.",
+        "Year": "2017",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.3/10"
+            }
+        ]
+    },
+    {
+        "Title": "Ray Donovan: The Movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYjczMmQ2OWUtODg0Mi00N2M3LTgyNGItZDg2NTZhMjFkNjk0XkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "David Hollander",
+        "Actors": "Liev Schreiber, Eddie Marsan, Dash Mihok",
+        "Genre": "Crime, Drama, Thriller",
+        "Plot": "A showdown decades in the making brings the Donovan family legacy full circle as they find themselves drawn back to Boston. Struggling to overcome their violent upbringing, their fierce love for each other keeps them in the fight.",
+        "Year": "2022",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.8/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "81%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "67/100"
+            }
+        ]
+    },
+    {
+        "Title": "Steins;Gate: The Movie - Load Region of D\u00e9j\u00e0 Vu",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYzczNzdhYWItNmJhZi00NmMxLTk4ZWQtMzdhYjZmYzk3NWUyXkEyXkFqcGc@._V1_SX300.jpg",
+        "Director": "Kanji Wakabayashi, Hiroshi Hamasaki, Takuya Sat\u00f4",
+        "Actors": "Mamoru Miyano, Asami Imai, Kana Hanazawa",
+        "Genre": "Animation, Mystery, Sci-Fi",
+        "Plot": "After the events of the anime, Rintarou begins to feel the repercussions of extensive time travel, and eventually completely fades from reality. Kurisu, being the only companion to remember him, now must find a way to bring him back.",
+        "Year": "2013",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.8/10"
+            }
+        ]
+    }
+]

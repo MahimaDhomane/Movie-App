@@ -43,9 +43,9 @@ This web application allows users to search for movies and view their details. T
 ## Setup Instructions
 
 1. Clone this repository:
-```sh
-git clone https://github.com/yourusername/movie-app.git
-```
+   ```sh
+   git clone https://github.com/yourusername/movie-app.git
+   ```
 3. Navigate to the project folder:
    ```sh
    cd movie-app

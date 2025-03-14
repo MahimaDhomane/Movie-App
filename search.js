@@ -1,4 +1,4 @@
-let API_key="43b1926b";
+let API_key="your_api_key";
 let movies=[];
 
 fetch("movies.json")

@@ -43,15 +43,19 @@ This web application allows users to search for movies and view their details. T
 ## Setup Instructions
 
 1. Clone this repository:
-```git clone https://github.com/yourusername/movie-app.git```
-2. Navigate to the project folder:
-   ```cd movie-app```
-3. Fetch movies by running the Python script:
+```sh
+git clone https://github.com/yourusername/movie-app.git
+```
+3. Navigate to the project folder:
+   ```sh
+   cd movie-app
+   ```
+5. Fetch movies by running the Python script:
    ```sh
    python fetch_movies.py
    ```
-4. Open `index.html` in a web browser to use the application.
-5. Ensure you have an active internet connection to fetch movie details from the OMDB API.
+6. Open `index.html` in a web browser to use the application.
+7. Ensure you have an active internet connection to fetch movie details from the OMDB API.
 
 ## API Usage
 

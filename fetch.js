@@ -57,7 +57,7 @@ document.getElementById("prev").addEventListener("click",()=>{
     }
 });
 
-document.getElementById("prev").addEventListener("click",()=>{
+document.getElementById("next").addEventListener("click",()=>{
     if(current_page*movies_per_page < totalMovies){
         current_page++;
         displaymovies(current_page);

@@ -1,6 +1,5 @@
 let movies_per_page=20;
 let current_page=1;
-let total_pages=0;
 let moviesdata=[];
 
 function displaymovies(current_page){
